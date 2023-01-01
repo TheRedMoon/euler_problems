@@ -89,4 +89,4 @@ if __name__ == '__main__':
                 product = reduce(lambda x, y: int(x)*int(y), chars)
                 if product > answer:
                     answer = product
-    print(answer)
+    print(answer) 
